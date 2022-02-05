@@ -3,9 +3,9 @@
 - 🌱 I’m currently a Devops Engineer in French Company.
 - 💞️ I’m looking to collaborate on a big Devops project over the world.
 - 📫 How to reach me
-      Youtube: https://www.youtube.com/channel/UCsT5OYDEIDzlySDjMq6jUBw/about
-      Linkedin: kriaabassem95
-      Instagram: Bassem Kriaa
+-      Youtube: https://www.youtube.com/channel/UCsT5OYDEIDzlySDjMq6jUBw/about
+-     Linkedin: kriaabassem95
+-     Instagram: Bassem Kriaa
 
 <!---
 Bassemkriaa95/Bassemkriaa95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
